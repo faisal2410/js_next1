@@ -29,10 +29,6 @@ var person = { firstName: "John", lastName: "Doe", age: 30 };
 var numbers = [1, 2, 3, 4, 5];
 var colors = ["red", "green", "blue"];
 
-// Symbols: Symbols are used to create unique identifiers for object properties.
-
-var symbol1 = Symbol("description");
-var symbol2 = Symbol("description");
 
 // These are the main data types in JavaScript.Understanding these data types is important for writing effective JavaScript code.
 
