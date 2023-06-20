@@ -220,8 +220,10 @@
 // Here's an example:
 
 
-// const jsonString = '{"name": "John", "age": 30, "city": "New York"}';
-// const person = JSON.parse(jsonString);
+
+
+const jsonString = '{"name": "John", "age": 30, "city": "New York"}';
+const person = JSON.parse(jsonString);
 
 // console.log(person.name);  // Output: John
 // console.log(person.age);   // Output: 30
